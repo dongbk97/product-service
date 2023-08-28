@@ -1,0 +1,10 @@
+ spring:
+   application:
+     name: product-service
+ eureka:
+   client:
+     service-url:
+       defaultZone: https://service-registry-anz2.onrender.com/eureka/
+
+   instance:
+     prefer-ip-address: false

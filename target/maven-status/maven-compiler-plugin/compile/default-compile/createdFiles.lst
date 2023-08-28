@@ -1,0 +1,7 @@
+com\example\productservice\repo\ProductRepo.class
+com\example\productservice\controller\ProductController.class
+com\example\productservice\utils\JsonUtils.class
+com\example\productservice\ProductServiceApplication.class
+com\example\productservice\repo\ProductRepository.class
+com\example\productservice\dto\ProductDTO.class
+com\example\productservice\entity\Product.class
